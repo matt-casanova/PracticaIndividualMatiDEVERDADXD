@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161710900099",
+    "project_id": "practicaindividualmati",
+    "storage_bucket": "practicaindividualmati.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161710900099:android:2d6f426ac3cdc62c77acb6",
+        "android_client_info": {
+          "package_name": "com.example.practicaindividualmati"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfTgP4AqNaCHUHXoPXN_X9A8VtmyOw41E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
